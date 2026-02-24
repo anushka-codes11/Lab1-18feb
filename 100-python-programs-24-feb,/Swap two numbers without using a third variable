@@ -1,1 +1,17 @@
+# Read two numbers from standard input
+a, b = map(int, input().split())
+
+# Swap without using third variable
+a = a + b
+b = a - b
+a = a - b
+
+# Print the swapped values
+print(a, b)
+
+
+//  input : 
+     5,10 
+//  output:
+     10,5  
 
