@@ -1,7 +1,0 @@
-s = input()
-print("Palindrome" if s == s[::-1] else "Not Palindrome")
-
-// input : 
-madam
-//output: 
-//palindrome
