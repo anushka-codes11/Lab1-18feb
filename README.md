@@ -12,7 +12,7 @@ Python Libraries:
 - NumPy
 - Pandas
 - Matplotlib
-- Seaborn
+  
 
 Repository Structure:
 - Classwork
